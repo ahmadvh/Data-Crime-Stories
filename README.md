@@ -1,4 +1,4 @@
-# 🕵️ Data Crime Series  
+# 🕵️ Solve Crime with Data 
 
 Welcome to the **Data Crime Series** — a collection of interactive data science mysteries.  
 
